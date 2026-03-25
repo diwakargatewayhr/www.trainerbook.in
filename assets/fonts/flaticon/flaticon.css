@@ -1,0 +1,215 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("flaticonda41.ttf?9fc657731ef99876a555ca28bb284950") format("truetype"),
+url("flaticonda41.woff?9fc657731ef99876a555ca28bb284950") format("woff"),
+url("flaticonda41.woff2?9fc657731ef99876a555ca28bb284950") format("woff2"),
+url("flaticonda41.eot?9fc657731ef99876a555ca28bb284950#iefix") format("embedded-opentype"),
+url("flaticonda41.svg?9fc657731ef99876a555ca28bb284950#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-call:before {
+    content: "\f101";
+}
+.flaticon-send:before {
+    content: "\f102";
+}
+.flaticon-globe:before {
+    content: "\f103";
+}
+.flaticon-location:before {
+    content: "\f104";
+}
+.flaticon-email:before {
+    content: "\f105";
+}
+.flaticon-right-quote:before {
+    content: "\f106";
+}
+.flaticon-left-quote:before {
+    content: "\f107";
+}
+.flaticon-medical-mask:before {
+    content: "\f108";
+}
+.flaticon-blood-MedDoctors:before {
+    content: "\f109";
+}
+.flaticon-medicine:before {
+    content: "\f10a";
+}
+.flaticon-oncology:before {
+    content: "\f10b";
+}
+.flaticon-neurology:before {
+    content: "\f10c";
+}
+.flaticon-hearing:before {
+    content: "\f10d";
+}
+.flaticon-gynecology:before {
+    content: "\f10e";
+}
+.flaticon-x-rays:before {
+    content: "\f10f";
+}
+.flaticon-surgery-room:before {
+    content: "\f110";
+}
+.flaticon-air-ambulance:before {
+    content: "\f111";
+}
+.flaticon-medical-app:before {
+    content: "\f112";
+}
+.flaticon-thermometer:before {
+    content: "\f113";
+}
+.flaticon-hepatology:before {
+    content: "\f114";
+}
+.flaticon-hematology:before {
+    content: "\f115";
+}
+.flaticon-rhinology:before {
+    content: "\f116";
+}
+.flaticon-medical-file:before {
+    content: "\f117";
+}
+.flaticon-oxygen:before {
+    content: "\f118";
+}
+.flaticon-cardiology:before {
+    content: "\f119";
+}
+.flaticon-radiology:before {
+    content: "\f11a";
+}
+.flaticon-ophthalmology:before {
+    content: "\f11b";
+}
+.flaticon-blood-bag:before {
+    content: "\f11c";
+}
+.flaticon-first-aid-kit:before {
+    content: "\f11d";
+}
+.flaticon-pharmacy:before {
+    content: "\f11e";
+}
+.flaticon-screening:before {
+    content: "\f11f";
+}
+.flaticon-eye-test:before {
+    content: "\f120";
+}
+.flaticon-glucometer:before {
+    content: "\f121";
+}
+.flaticon-infusion:before {
+    content: "\f122";
+}
+.flaticon-stethoscope:before {
+    content: "\f123";
+}
+.flaticon-electrocardiogram:before {
+    content: "\f124";
+}
+.flaticon-blood-tube:before {
+    content: "\f125";
+}
+.flaticon-urology:before {
+    content: "\f126";
+}
+.flaticon-anesthetic:before {
+    content: "\f127";
+}
+.flaticon-hospital-bed:before {
+    content: "\f128";
+}
+.flaticon-gastroenterology:before {
+    content: "\f129";
+}
+.flaticon-dental-care:before {
+    content: "\f12a";
+}
+.flaticon-pills:before {
+    content: "\f12b";
+}
+.flaticon-defribillator:before {
+    content: "\f12c";
+}
+.flaticon-dermatology:before {
+    content: "\f12d";
+}
+.flaticon-prescription:before {
+    content: "\f12e";
+}
+.flaticon-orthopedics:before {
+    content: "\f12f";
+}
+.flaticon-syrup:before {
+    content: "\f130";
+}
+.flaticon-vaccine:before {
+    content: "\f131";
+}
+.flaticon-siren:before {
+    content: "\f132";
+}
+.flaticon-first-aid-bag:before {
+    content: "\f133";
+}
+.flaticon-pulmonology:before {
+    content: "\f134";
+}
+.flaticon-hospital:before {
+    content: "\f135";
+}
+.flaticon-medical-folder:before {
+    content: "\f136";
+}
+.flaticon-weight-scale:before {
+    content: "\f137";
+}
+.flaticon-ambulance:before {
+    content: "\f138";
+}
+.flaticon-plaster:before {
+    content: "\f139";
+}
+.flaticon-nurse:before {
+    content: "\f13a";
+}
+.flaticon-doctor:before {
+    content: "\f13b";
+}
+.flaticon-doctor-1:before {
+    content: "\f13c";
+}
+.flaticon-emergency-call:before {
+    content: "\f13d";
+}
+.flaticon-experience:before {
+    content: "\f13e";
+}
+.flaticon-cross:before {
+    content: "\f13f";
+}
+.flaticon-next:before {
+    content: "\f140";
+}
+.flaticon-back:before {
+    content: "\f141";
+}
