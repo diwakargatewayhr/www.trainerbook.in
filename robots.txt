@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trainerbook.in/sitemap.xml

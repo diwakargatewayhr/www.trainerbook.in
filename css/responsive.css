@@ -1,0 +1,475 @@
+@charset "utf-8";
+/* CSS Document */
+@media (max-width: 1660px) {
+.homePageBannerSecinner{
+    padding: 140px 0; 
+    
+}
+}
+@media (max-width: 1370px) {
+body{
+    
+}
+.header .navbar .navbar-brand {
+    max-width: 220px;
+}
+.header .navbar .navbar-nav .nav-item:not(:last-child) {
+    margin-right: 15px;
+}
+.header .navbar .navbar-nav .nav-link {
+   	
+}
+.sub-menu > li > a {   
+    font-size: 14px;
+    line-height: 18px;   
+}
+.homePageBannerSecinner{
+    padding: 120px 0; 
+    
+}
+}
+@media (max-width: 1299px) {
+
+}
+@media (max-width: 1199px) {
+body{
+	 font-size: 14px;
+	 line-height:20px;
+}
+.singleCourseEnquiryArea .form-control {
+    font-size: 14px;
+}
+.singleCourseEnquiryArea .form-select {
+    font-size: 14px;
+}	
+	
+.menu_overlay {
+    display: none;
+    content: '';
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: rgba(0,0,0,0.6);
+    width: 100%;
+    height: 100%;
+    display: none;
+    z-index: 2;
+}
+.menu_overlay.menu-visible {
+    display: block;
+}
+.navbar-toggler {
+    color: #000;
+    padding: 0px;
+    border: 0;
+    font-size: 20px;
+    box-shadow: none !important;
+    margin-left: 15px;
+}	
+.navbar-collapse {
+    background: #000323;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 260px;
+    display: none;
+    height: 100% !important;
+    max-height: 100% !important;
+    overflow: hidden;
+    overflow-x: scroll;
+    display: block !important;
+    transform: translateX(-260px);
+    opacity: 0;
+    visibility: hidden;
+    padding: 0px 0 20px;
+    transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -webkit-transition: all 300ms ease;
+    z-index: 3;
+}	
+.navbar-collapse.menu-visible {
+    transform: translateX(0px);
+    transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -webkit-transition: all 300ms ease;
+    opacity: 1;
+    visibility: visible;
+}
+.navigationArea .navigationAreainner .navbar .navbar-nav {
+    padding-top: 10px;
+    display: block;
+}	
+
+.header .navbar .navbar-nav .nav-item:not(:last-child) {
+    margin-right: 0px;
+}
+.header .navbar .navbar-nav .nav-link {
+    padding: 4px 15px;
+    font-size: 16px;
+    color: #fff;
+}
+.dropdown_menu:after{
+	color:#fff;
+}
+.header .navbar .navbar-nav .nav-button {   
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 6px 23px;
+}	
+
+.sub-menu {
+    display: none !important;
+    position: relative;
+    border: none;
+    box-shadow: none;
+    transform: translate(0%, 0px);
+    left: 0;
+    width: 100%;
+    background: #000323;
+    padding-left: 15px;	
+}
+.header .navbar .navbar-nav li:hover .sub-menu {
+    opacity: 1;
+    visibility: visible;
+    -webkit-transform: translate(0%, 0px);
+    -moz-transform: translate(0%, 0px);
+    -ms-transform: translate(0%, 0px);
+    -o-transform: translate(0%, 0px);
+    transform: translate(0%, 0px);
+	
+}
+.curent .sub-menu {
+    visibility: visible;
+    opacity: 1;
+    position: relative;
+    transform: translateY(0em);
+    z-index: 1;
+    transition: none;
+    /* margin-top: 2px; */
+    display: block !important;
+    min-width: 100%;
+    left: 0;
+    transform: translate(0%, 0px);
+    padding: 0px 0px 10px;
+}
+.dropdown_menu:after {    
+    top: 5px;
+    right: 10px;    
+}
+.sub-menu > li {   
+    border-bottom: 0;
+}
+.sub-menu > li > a {
+    display: block;
+    color: #fff;
+    padding: 5px 15px;
+    font-size: 14px;
+    line-height: 20px;
+    padding-right: 0px;
+}
+
+
+
+	
+	
+	
+	
+.owl-nav button {    
+    width: 40px;
+    height: 40px;   
+}	
+
+}
+
+
+
+
+@media (max-width: 991px) {
+
+.innerPageBannerSec {    
+    padding: 70px 0;
+}
+.singleCourseBannerVideo{
+	margin-top:30px;
+}
+
+
+
+}
+
+@media (max-width: 768px) {
+.first_blk {
+    -ms-flex-order: -1;
+    order: -1;
+}
+.last_blk {
+    -ms-flex-order: 13;
+    order: 13;
+}
+.innerPageBannerSec {    
+    padding: 50px 0;
+}
+.innerPageBannerWrapper h1.title {
+    font-size: 31px;
+    line-height: 37px;    
+    margin-bottom: 5px;
+}
+.innerPageBannerBreadcrumb li {   
+    font-size: 16px;
+}
+.trainerThumnailBox {
+	margin-bottom:20px;
+}
+.trainerListingIteminner {
+    padding: 20px 20px;
+}
+.trainerDetailsTopArea {
+    margin-bottom: 10px;
+    display: block !important;
+}
+.trainerDetails .title {
+    font-size: 20px;
+    line-height: 24px;    
+    margin-bottom: 5px;
+}
+.trainerDetailsTopArea {
+    margin-bottom: 5px;
+}
+.trainerDetailsList li {    
+    width: 100%;
+    margin-bottom: 3px;
+}
+.trainerDetailsList li .ttl {
+    display: inline-block;
+}
+.trainerDetailsList li:last-child {       
+    margin-bottom: 0px;
+}
+
+
+}
+@media (max-width: 767px) {
+ 
+}
+@media (max-width: 600px) {
+ 
+}
+@media (max-width: 575px) {
+.innerPageBannerSec {    
+    padding: 30px 0;
+}
+.innerPageBannerWrapper h1.title {
+    font-size: 25px;
+    line-height: 31px;    
+    margin-bottom: 5px;
+}
+.innerPageBannerBreadcrumb li {   
+    font-size: 14px;
+}
+	
+.headingSec {
+    margin-bottom: 25px;
+}	
+.headingSec .secTitle {   
+    font-size: 30px;    
+    line-height: 40px;
+}	
+
+.header .navbar {   
+    padding: 0px;
+}
+.header .navbar .rightSide .nav-button {   
+    padding: 6px 20px;    
+    font-size: 12px;
+}	
+.header .navbar .navbar-brand {
+    max-width: 180px;
+}
+.header .navbar .rightSide {  
+    margin-left: 5px;
+}
+.homePageBannerSecinner {
+        padding: 40px 0;
+}
+.homePageBannerWrapper h1.title {
+    font-size: 30px;
+    line-height: 35px;   
+}
+.homePageBannerWrapper h1.title span {    
+    font-size: 40px;
+    line-height: 50px;    
+}
+.homePageBannerWrapper p.para {
+    font-size: 16px;
+    line-height: 22px;    
+}
+.homePageBannerSearchAreainner .searchInput{
+    height: 50px;	
+}
+.homePageBannerSearchAreainner .searchBtn{
+	height: 50px;
+    padding: 10px 20px 10px 20px;	
+}
+.homePageBannerSearchAreainner .searchBtn .txt{
+	display:none;
+}
+.upcomingBatchSec{
+	padding:40px 0;
+}
+.certificationSec{
+	padding:40px 0 10px;
+}
+.certificationBoxinner {
+	text-align:center;
+}
+.ourGallerySec{
+	padding:40px 0 0px;
+}
+.dataTableSec{
+	padding:40px 0 60px;
+}
+
+.trainerListingSec{
+	padding:40px 0 10px;
+}
+.trainerListingItem {
+}
+
+.footer_top{
+	text-align: center;
+}
+.footerLinksArea {
+    text-align: center;
+}
+.footerLinks li a {   
+    padding: 10px 10px;    
+}
+.footerLinks li a:after {  
+    top: 9px;
+}
+.singleCourseDetailsSec{
+	padding:40px 0;
+}
+.singleCourseDetailsTabContent .tab-content {
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.singleCourseDetailsTabContent .tab-content .courses-curriculum {    
+    padding: 10px;
+    margin-left: -10px;
+    margin-right: 10px;
+}
+.singleCourseDetailsTabContent .tab-content .courses-curriculum ul li a {   
+    padding: 14px 30px 14px 45px;
+    margin-left: -10px;
+    margin-right: -10px;
+    flex-wrap: wrap;	
+}
+.singleCourseDetailsTabContent .tab-content .courses-curriculum ul li a:before {    
+    left: 20px;    
+    font-size: 14px;    
+}
+.singleCourseDetailsTabContent .tab-content .courses-curriculum h3 {   
+    font-size: 16px;    
+}
+.singleCourseDetailsTabContent .tab-content .courses-overview h3 {
+     font-size: 18px;    
+}
+.singleCourseDetailsTabContent .tab-content .courses-listing {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.singleCourseDetailsTabNav .nav {    
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.singleCourseDetailsTabNav .nav .nav-item {
+    margin-right: 15px;
+}
+.singleCourseDetailsTabNav .nav .nav-item .nav-link {    
+    padding: 14px 0;    
+    font-size: 14px;
+}
+.singleCourseBannerContent .title {
+    font-size: 24px;
+    line-height: 35px;
+}
+
+}
+@media (max-width: 479px) {
+.innerPageBannerSec {    
+    padding: 25px 0 15px;
+}	
+.innerPageBannerWrapper h1.title {
+        font-size: 22px;
+        line-height: 26px;
+        margin-bottom: 5px;
+}
+.innerPageBannerBreadcrumb li {
+        font-size: 13px;
+    }
+.trainerThumnail {
+    height: auto;;
+}
+.singleCourseBannerContent .courses-meta li {   
+    font-size: 14px;
+}
+.trainerDetailsReviewsArea .courses-review-comments .user-review {    
+    padding: 20px 0 20px 80px;    
+}
+.trainerDetailsReviewsArea .courses-review-comments .user-review img {    
+    width: 64px;
+    height: 64px;    
+}
+.trainerDetailsReviewsArea .courses-review-comments .user-review .review-rating {   
+    margin-bottom: 3px;
+}
+.trainerDetailsReviewsArea .courses-review-comments .user-review .sub-comment {
+    margin-bottom: 2px;  
+} 
+
+ 
+}
+@media (max-width: 420px) {
+
+
+}
+@media (max-width: 380px) {
+	
+  
+}
+/* --- NEW: WhatsApp button mobile fix --- */
+@media (max-width: 575px) {
+.bottom-right {
+    font-size: 45px !important;
+    padding: 5px !important;
+}
+}
+
+/* --- NEW: City dropdown mobile fix --- */
+@media (max-width: 575px) {
+.stateDropdownSelect {
+    max-width: 120px;
+    font-size: 13px;
+}
+}
+
+/* --- NEW: Offer banner mobile fix --- */
+@media (max-width: 768px) {
+.hpmePageBannerSec .offerBannerArea {
+    position: relative;
+    right: auto;
+    top: auto;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.hpmePageBannerSec .offerBannerArea img {
+    width: 180px;
+}
+}
